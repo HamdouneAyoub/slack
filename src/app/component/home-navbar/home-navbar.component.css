@@ -1,0 +1,12 @@
+.navbar{
+    background-color: #541554;
+}
+.btn-link{
+    color: aliceblue;
+    text-decoration: none;
+    
+}
+.btn-light{
+    margin-left: 20px;
+    margin-right: -20px;
+}
